@@ -8,6 +8,9 @@ ___
 - **Nathaniel Bannis**
   - Lead Programmer👨🏾‍💻
 
+- **Ezekiel Akande**
+  - Data Modeler🤖
+
 ---
  ### [Our Repo](https://github.com/nateBanz/GermGang-BacterialID)
  ### [Jira](https://jira.ggc.edu/secure/RapidBoard.jspa?rapidView=80&projectKey=DISCOVER&view=planning&selectedIssue=DISCOVER-11&issueLimit=100)
